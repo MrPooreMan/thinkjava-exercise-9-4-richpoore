@@ -2,6 +2,10 @@
 public class Recurse {
     /**
     * Returns the first character of the given String.
+    * 
+    * @return the first character of the given string <s>
+    * 
+    * @param s The string the first character is to be returned from
     */
     public static char first(String s) {
     return s.charAt(0);
